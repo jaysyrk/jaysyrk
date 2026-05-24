@@ -14,12 +14,6 @@
 ---
 
 ### CORE TECH STACK
-*   **Backend & Architecture:** Python, FastAPI, Flask, Docker, AST Parsing
+*   **Backend & Architecture:** Python, Go, FastAPI, Flask, Docker, AST Parsing
 *   **Frontend & Data:** TypeScript, Next.js, React, Tailwind CSS, Recharts
 *   **CI/CD & Automation:** GitHub Actions, Infrastructure as Code (IaC)
-
----
-
-### CURRENT WORKING DEV-BOX
-*   **Development Style:** Heavy batch commits, local isolated sandboxes, zero LLM assistance.
-*   **Current Focus:** Refining deterministic rule processing and AST optimization pipelines.
