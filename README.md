@@ -1,16 +1,25 @@
-## Hi there 👋
+# JACOB MCCORD | jaysyrk
 
-<!--
-**jaysyrk/jaysyrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 16-year-old Systems Architecture & DevOps Specialist. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CENTRAL NAVIGATION INDEX
+*   [Jump to teleos](https://github.com) — Deterministic Rule Evaluation Engine
+*   [Jump to chronos](https://github.com) — Infrastructure Drift Postmortem Engine
+*   [Jump to selfsynthengine](https://github.com) — Core Logic Engine
+*   [Jump to ousia](https://github.com) — Architectural Component Layouts
+*   [Jump to jaysyrk.dev](https://github.com) — Personal Portfolio Website
+
+---
+
+### CORE TECH STACK
+*   **Backend & Architecture:** Python, FastAPI, Flask, Docker, AST Parsing
+*   **Frontend & Data:** TypeScript, Next.js, React, Tailwind CSS, Recharts
+*   **CI/CD & Automation:** GitHub Actions, Infrastructure as Code (IaC)
+
+---
+
+### CURRENT WORKING DEV-BOX
+*   **Development Style:** Heavy batch commits, local isolated sandboxes, zero LLM assistance.
+*   **Current Focus:** Refining deterministic rule processing and AST optimization pipelines.
