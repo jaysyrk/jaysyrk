@@ -5,11 +5,11 @@
 ---
 
 ### CENTRAL NAVIGATION INDEX
-*   [Jump to teleos](https://github.com) — Deterministic Rule Evaluation Engine
-*   [Jump to chronos](https://github.com) — Infrastructure Drift Postmortem Engine
-*   [Jump to selfsynthengine](https://github.com) — Core Logic Engine
-*   [Jump to ousia](https://github.com) — Architectural Component Layouts
-*   [Jump to jaysyrk.dev](https://github.com) — Personal Portfolio Website
+*   [Jump to teleos](https://github.com/jaysyrk/teleos) — Deterministic Rule Evaluation Engine
+*   [Jump to ousia](https://github.com/jaysyrk/Ousia) — Architectural Component Layouts
+*   [Jump to chronos](https://github.com/jaysyrk/ChronosIac) — Infrastructure Drift Postmortem Engine
+*   [Jump to selfsynthengine](https://github.com/jaysyrk/SelfSynthEngine) — Core Logic Engine
+*   [Jump to jaysyrk.dev](https://jaysyrk.dev/) — Personal Portfolio Website
 
 ---
 
