@@ -7,8 +7,6 @@
 ### CENTRAL NAVIGATION INDEX
 *   [Jump to teleos](https://github.com/jaysyrk/teleos) — Deterministic Rule Evaluation Engine
 *   [Jump to ousia](https://github.com/jaysyrk/Ousia) — Architectural Component Layouts
-*   [Jump to chronos](https://github.com/jaysyrk/ChronosIac) — Infrastructure Drift Postmortem Engine
-*   [Jump to selfsynthengine](https://github.com/jaysyrk/SelfSynthEngine) — Core Logic Engine
 *   [Jump to jaysyrk.dev](https://jaysyrk.dev/) — Personal Portfolio Website
 
 ---
