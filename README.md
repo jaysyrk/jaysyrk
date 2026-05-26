@@ -12,6 +12,5 @@
 ---
 
 ### CORE TECH STACK
-*   **Backend & Architecture:** Python, Go, FastAPI, Flask, Docker, AST Parsing
-*   **Frontend & Data:** TypeScript, Next.js, React, Tailwind CSS, Recharts
-*   **CI/CD & Automation:** GitHub Actions, Infrastructure as Code (IaC)
+*  Python, Go, Rust
+*  Trying to learn Zig :(
