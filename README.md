@@ -13,4 +13,4 @@
 
 ### CORE TECH STACK
 *  Python, Go, Rust
-*  Trying to learn Zig :(
+*  Trying to learn Zig :p
