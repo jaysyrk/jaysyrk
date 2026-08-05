@@ -9,6 +9,7 @@
 *   [Jump to ousia](https://github.com/jaysyrk/Ousia) - Architectural Component Layouts
 *   [Jump to jaysyrk.dev](https://jaysyrk.dev/) - Personal Portfolio Website
 *   [Jump to lethe](https://github.com/jaysyrk/lethe) - Deception proxy and honeypot
+*   [Jump to VaktOS](https://github.com/jaysyrk/vakt-os) - Custom Defensive LFS
 
 ---
 
