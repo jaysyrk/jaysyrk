@@ -1,6 +1,7 @@
 # Jacob McCord | jaysyrk
 
 > 16-year-old Systems Architecture & DevOps Specialist. I build high-performance backend systems in Go and Rust that cut server overhead, reduce database latency, automate devops pipelines, etc.
+> Need to optimize your API latency, migrate infrastructure to Docker/Kubernetes, or build custom rule engines? Contact me at 'jmccord.dev@gmail.com'
 
 ---
 
