@@ -1,4 +1,4 @@
-# JACOB MCCORD | jaysyrk
+# Jacob McCord | jaysyrk
 
 > 16-year-old Systems Architecture & DevOps Specialist. I build high-performance backend systems in Go and Rust that cut server overhead, reduce database latency, automate devops pipelines, etc.
 
