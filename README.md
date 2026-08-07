@@ -16,10 +16,10 @@ Are you dealing with scaling bottlenecks, spiraling cloud infrastructure bills, 
 ---
 
 ### Central Navigation Index
-* **[teleos](https://github.com)** – Deterministic Rule Evaluation Engine
-* **[ousia](https://github.com)** – High-Efficiency Architectural Component Layouts
-* **[lethe](https://github.com)** – Advanced Deception Proxy & Network Honeypot
-* **[VaktOS](https://github.com)** – Custom Defensive Linux-From-Scratch (LFS) System
+* **[teleos](https://github.com/jaysyrk/teleos)** – Deterministic Rule Evaluation Engine
+* **[ousia](https://github.com/jaysyrk/Ousia)** – High-Efficiency Architectural Component Layouts
+* **[lethe](https://github.com/jaysyrk/lethe)** – Advanced Deception Proxy & Network Honeypot
+* **[VaktOS](https://github.com/jaysyrk/vakt-os)** – Custom Defensive Linux-From-Scratch (LFS) System
 * **[jaysyrk.dev](https://jaysyrk.dev)** – Personal Portfolio & Deep-Dive Architecture Blog
 
 ---
