@@ -27,7 +27,7 @@ Are you dealing with scaling bottlenecks, spiraling cloud infrastructure bills, 
 ### Core Tech Stack
 <pre>
 ┌─────────────┬────────────────────────────────────────────────────────┐
-│ Languages   │ Go • Rust • Python • C • Bash                          │
+│ Languages   │ Go • Rust • Python • C • Bash • Zig                    │
 ├─────────────┼────────────────────────────────────────────────────────┤
 │ DevOps / OS │ Docker • Kubernetes • Linux Systems (LFS) • CI/CD      │
 └─────────────┴────────────────────────────────────────────────────────┘
