@@ -10,6 +10,7 @@ Are you dealing with scaling bottlenecks, spiraling cloud infrastructure bills, 
 * **API Latency & Security Hardening** (Secure Go / Rust microservices)
 * **Cloud Migrations & DevSecOps** (Immutable Docker containers & secure Kubernetes orchestration)
 * **Custom Processing Engines** (Deterministic, memory-safe rule evaluation & state machines)
+* **Quite literally anything Minecraft Server/plugin related
 
 **Get in touch:** [jmccord.dev@gmail.com](mailto:jmccord.dev@gmail.com)
 
